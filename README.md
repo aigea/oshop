@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1
 
-A prototype of the website is hosted at:  http://organic-shop-ai.web.app
+A prototype of the website is hosted at:  https://organic-shop-ai.web.app
 
 ## Downloading dependencies
 
